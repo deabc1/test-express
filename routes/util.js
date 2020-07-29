@@ -2,7 +2,7 @@ var db=null;
 var mysql={
     "orm": "sequelize",
     "type": "mysql",
-    "host": "dbserver.anakin.com.cn",
+    "host": "d",
     "port": 3306,
     "user": "jtoadev",
     "password": "KuxIsi848E",
